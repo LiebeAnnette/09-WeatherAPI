@@ -23,8 +23,7 @@ This is a weather dashboard application that calls the OpenWeather API and rende
 git clone git@github.com:LiebeAnnette/09-WeatherAPI.git
 
 2. Navigate to the project directory:
-   cd 17-Social-Network-API
-
+   cd 09-WeatherAPI
 3. Install dependencies:
 npm install
 
